@@ -80,5 +80,5 @@ let myObject = {
     key: name | type:  string
     key: age | type:  number
     key: city | type:  string
-    key: isStudent | type:  boolean
+    key: is..Student | type:  boolean
 
