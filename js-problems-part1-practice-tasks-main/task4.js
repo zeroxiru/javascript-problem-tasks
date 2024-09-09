@@ -6,3 +6,26 @@
 // I am learning Programming to become a programmer
 
 // sample-output: Programming
+
+function findLongestWord(sentence){
+    splitSentenceByWord = sentence.split(' ')
+   let  longestWord = '';
+    for(let i=0; i<splitSentenceByWord.length; i++)
+    {
+      if(splitSentenceByWord[i].length >= longestWord.length )
+      {
+       longestWord = splitSentenceByWord[i] ;
+      }
+    }
+  return longestWord;
+//console.log(splitSentenceByWord);
+
+}
+
+
+const sentence ='I am learning Programming to become a programmer'
+let output = findLongestWord(sentence);
+
+console.log(output);
+
+

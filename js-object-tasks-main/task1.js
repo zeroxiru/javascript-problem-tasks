@@ -1,2 +1,10 @@
-// ### Task-1  
-// Take four parameters. Multiply the four numbers and then return the result 
+// ### Task-1
+// Access the `golden rod` color value in output.
+// ```
+// const colors = {
+//     red: "#ff0000",
+//     green: "#00ff00",
+//     blue: "#0000ff",
+//     "golden rod": '#daa520'
+// };
+// ```

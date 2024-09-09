@@ -4,4 +4,5 @@
 // Write a function to convert temperature from Celsius to Fahrenheit.
 
 let Celsius = 0;
-let Fahrenheit =0;
+let Fahrenheit =null;
+console.log(typeof(Fahrenheit))

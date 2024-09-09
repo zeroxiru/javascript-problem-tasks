@@ -1,2 +1,8 @@
 // ### Task-2
-// Take a number if the number is odd multiply it by 2 and return the result. If the number is even divide it by two and return the result.
+// For this object below add a property named `passenger capacity` with value 5
+// ```js
+// const car = {
+//     make: "Toyota",
+//     model: "Corolla",
+//     year: 2020
+// };
